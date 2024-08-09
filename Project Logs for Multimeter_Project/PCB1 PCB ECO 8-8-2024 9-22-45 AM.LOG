@@ -1,0 +1,46 @@
+Removed Member From Class: ClassName=Measuring Member=C5
+Removed Member From Class: ClassName=Measuring Member=C7
+Removed Member From Class: ClassName=Powering Member=C9
+Removed Member From Class: ClassName=Powering Member=D5
+Removed Member From Class: ClassName=Powering Member=J3
+Removed Member From Class: ClassName=Measuring Member=R9
+Removed Member From Class: ClassName=Measuring Member=SW1
+Removed Member From Class: ClassName=Powering Member=U5
+Change Component Designator: OldDesignator=U6 NewDesignator=LCD1
+Change Component Designator: OldDesignator=U7 NewDesignator=U6
+Change Component Designator: OldDesignator=U8 NewDesignator=U7
+Change Component Designator: OldDesignator=U9 NewDesignator=U8
+Change Net Name : Old Net Name=NetR10_2 New Net Name=NetLCD1_3
+Change Net Name : Old Net Name=NetU5_21 New Net Name=NetLCD1_11
+Change Net Name : Old Net Name=NetU5_22 New Net Name=NetLCD1_12
+Change Net Name : Old Net Name=NetU5_23 New Net Name=NetLCD1_13
+Change Net Name : Old Net Name=NetU5_24 New Net Name=NetLCD1_14
+Change Net Name : Old Net Name=NetU5_25 New Net Name=NetLCD1_4
+Change Net Name : Old Net Name=NetU5_26 New Net Name=NetLCD1_6
+Change Net Name : Old Net Name=NetU7_7 New Net Name=NetU6_7
+Added Member To Class: ClassName=Powering Member=Component C4 10uF
+Added Member To Class: ClassName=Powering Member=Component C6 10uF
+Added Member To Class: ClassName=Measuring Member=Component C8 22pF
+Added Member To Class: ClassName=Measuring Member=Component C10 1uF
+Added Member To Class: ClassName=Measuring Member=Component C11 1uF
+Added Member To Class: ClassName=Powering Member=Component D4 1N4148
+Added Member To Class: ClassName=Powering Member=Component J2 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Measuring Member=Component J4 B2B-XH-A(LF)(SN)
+Added Member To Class: ClassName=Measuring Member=Component J5 FCR7350B
+Added Member To Class: ClassName=Measuring Member=Component LCD1 LCD2X16
+Added Member To Class: ClassName=Powering Member=Component R2 1K
+Added Member To Class: ClassName=Measuring Member=Component R10 100K
+Added Member To Class: ClassName=Measuring Member=Component R12 220
+Added Member To Class: ClassName=Measuring Member=Component R14 1.5K
+Added Member To Class: ClassName=Measuring Member=Component R16 B72220S0300K101
+Added Member To Class: ClassName=Measuring Member=Component R17 10K
+Added Member To Class: ClassName=Measuring Member=Component R18 10K
+Added Member To Class: ClassName=Measuring Member=Component R20 10K
+Added Member To Class: ClassName=Measuring Member=Component R23 2K
+Added Member To Class: ClassName=Measuring Member=Component R24 200
+Added Member To Class: ClassName=Measuring Member=Component R26 2K
+Added Member To Class: ClassName=Measuring Member=Component R28 20K
+Added Member To Class: ClassName=Measuring Member=Component SW2 JS202011SCQN
+Added Member To Class: ClassName=Powering Member=Component U3 ams1117-5
+Added Member To Class: ClassName=Powering Member=Component U4 MT3608
+Added Member To Class: ClassName=Measuring Member=Component U7 ACS712ELCTR-20A-T

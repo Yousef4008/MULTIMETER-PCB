@@ -1,0 +1,10 @@
+Added Component: Designator=5V(Test_Point)
+Added Component: Designator=GND(Test_Point)
+Added Pin To Net: NetName=+5 Pin=5V-1
+Added Pin To Net: NetName=GND Pin=GND-1
+Added Member To Class: ClassName=Powering Member=Component 5V Test Point
+Added Member To Class: ClassName=Powering Member=Component GND Test Point
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
