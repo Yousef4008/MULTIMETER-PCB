@@ -46,3 +46,4 @@ Contributions are welcome! Please fork this repository, make your changes, and s
 ## Contact
 
 For any questions or suggestions, feel free to reach out via GitHub issues or directly on LinkedIn.
+https://www.linkedin.com/in/youssif-hossam-a81189240
