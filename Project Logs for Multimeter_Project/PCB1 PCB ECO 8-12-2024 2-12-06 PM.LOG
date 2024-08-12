@@ -1,0 +1,67 @@
+Removed Pin From Net: NetName=NetBT1_NEG Pin=C1-2
+Removed Pin From Net: NetName=NetBT1_NEG Pin=C2-2
+Removed Pin From Net: NetName=NetBT1_NEG Pin=J1-5
+Removed Pin From Net: NetName=NetBT1_NEG Pin=J1-Shell
+Removed Pin From Net: NetName=NetBT1_NEG Pin=J1-Shell
+Removed Pin From Net: NetName=NetBT1_NEG Pin=J1-Shell
+Removed Pin From Net: NetName=NetBT1_NEG Pin=J1-Shell
+Removed Pin From Net: NetName=GND Pin=SW1-1
+Removed Pin From Net: NetName=NetBT1_NEG Pin=SW1-2
+Change Component Footprint: Designator=SW1 Old Footprint=FP-A101SYCB04-MFG New Footprint=FP-JS202011SCQN-MFG
+Change Component Comment : Designator=SW1 Old Comment=A101SYCB04 New Comment=JS202011SCQN
+Change Managed Component Library Link : Designator=SW1 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=F050BDA2-A9C1-43BD-91CA-855E78B8C905 New ItemGUID=2CC9625A-C69B-40C5-8675-AE47424E6E11 Old RevisionGUID=36566E73-5EB9-47F1-80B3-FCF9B34CF1B3 New RevisionGUID=8FDB5CFB-2B95-40ED-A8D0-C72CF493DCCC
+Change component parameters: Designator = "SW1" ("SW1"); Footprint = "FP-A101SYCB04-MFG"; UniqueID = "\LQTZJYCF" ("\LQTZJYCF")
+Change component parameters (AddParameter): Name = "Actuator Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Length"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Actuator Type"; Value = "Standard"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Copper Alloy"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Silver"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "70mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "7.5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Electrical Life"; Value = "5000Cycles"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Flammability Rating"; Value = "UL94 V-2"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Nylon"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "9mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "300mA"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "85°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-20°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Tape and Reel"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "JS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Function"; Value = "On-On"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Switch Travel"; Value = "2mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Gull Wing"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Throw Configuration"; Value = "DPDT"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating (DC)"; Value = "6V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VIN Pin=C1-2
+Added Pin To Net: NetName=VIN Pin=J1-1
+Added Pin To Net: NetName=VIN Pin=J1-2
+Added Pin To Net: NetName=VIN Pin=J1-3
+Added Pin To Net: NetName=VIN Pin=J1-4
+Added Pin To Net: NetName=VIN Pin=J1-5
+Added Pin To Net: NetName=VIN Pin=J1-Shell
+Added Pin To Net: NetName=VIN Pin=J1-Shell
+Added Pin To Net: NetName=VIN Pin=J1-Shell
+Added Pin To Net: NetName=VIN Pin=J1-Shell
+Added Pin To Net: NetName=VIN Pin=R1-2
+Added Pin To Net: NetName=NetC3_2 Pin=SW1-1
+Added Pin To Net: NetName=GND Pin=SW1-4
+Added Pin To Net: NetName=VIN Pin=SW1-5
+Change Net Name : Old Net Name=NetC3_2 New Net Name=-BAT
+Added Pin To Net: NetName=NetC2_2 Pin=C2-2
+Added Pin To Net: NetName=NetC2_2 Pin=SW1-2
+Added Net: Name=NetC2_2
+Added Rule: Name=Schematic Supply Nets_4
+Added Rule: Name=Schematic Supply Nets_5
+Added Rule: Name=Schematic Supply Nets_6
+Added Rule: Name=Schematic Supply Nets_7
+Added Rule: Name=Schematic Supply Nets_8
