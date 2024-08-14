@@ -1,9 +1,0 @@
-Change Component Designator: OldDesignator=LCD1 NewDesignator=LCD
-Change Net Name : Old Net Name=NetLCD1_3 New Net Name=NetLCD_3
-Change Net Name : Old Net Name=NetLCD1_4 New Net Name=NetLCD_4
-Change Net Name : Old Net Name=NetLCD1_6 New Net Name=NetLCD_6
-Change Net Name : Old Net Name=NetLCD1_11 New Net Name=NetLCD_11
-Change Net Name : Old Net Name=NetLCD1_12 New Net Name=NetLCD_12
-Change Net Name : Old Net Name=NetLCD1_13 New Net Name=NetLCD_13
-Change Net Name : Old Net Name=NetLCD1_14 New Net Name=NetLCD_14
-Added Member To Class: ClassName=Measuring Member=Component U7 ACS712ELCTR-20A-T

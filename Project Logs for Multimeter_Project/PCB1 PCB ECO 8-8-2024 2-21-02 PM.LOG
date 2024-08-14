@@ -1,8 +1,0 @@
-Removed Pin From Net: NetName=NetLCD_11 Pin=U5-21
-Removed Pin From Net: NetName=NetLCD_12 Pin=U5-22
-Removed Pin From Net: NetName=NetLCD_13 Pin=U5-23
-Removed Pin From Net: NetName=NetLCD_14 Pin=U5-24
-Added Pin To Net: NetName=NetLCD_14 Pin=U5-21
-Added Pin To Net: NetName=NetLCD_13 Pin=U5-22
-Added Pin To Net: NetName=NetLCD_12 Pin=U5-23
-Added Pin To Net: NetName=NetLCD_11 Pin=U5-24
